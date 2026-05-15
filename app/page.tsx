@@ -29,11 +29,11 @@ export default function GravoxLanding() {
   const gallery = [
   '/images/trabajos/trabajo1.png',
   '/images/trabajos/trabajo2.jpeg',
-  '/images/trabajos/trabajo3.png',
+  '/images/trabajos/trabajos3.png',
   '/images/trabajos/trabajo4.jpg',
   '/images/trabajos/trabajo5.jpg',
   '/images/trabajos/trabajo6.jpeg',
-];
+  ];
 
   return (
     <div
