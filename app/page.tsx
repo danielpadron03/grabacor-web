@@ -71,7 +71,7 @@ export default function GravoxLanding() {
 
       {/* HERO */}
    <section
-  className="relative h-screen flex items-center overflow-hidden bg-cover bg-center"
+  className="relative min-h-[100svh] flex items-center overflow-hidden bg-cover md:bg-center bg-[75%_center]"
   style={{
     backgroundImage:
       "linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.0)), url('/images/hero-bg.png')",
